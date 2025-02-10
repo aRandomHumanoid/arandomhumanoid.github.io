@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Posts"
-permalink: /posts
+permalink: /testahhh
 ---
 wef ewwer 
