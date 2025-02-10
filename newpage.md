@@ -13,4 +13,6 @@ Github: [https://github.com/aRandomHumanoid]
 
 Instagram: [https://www.instagram.com/hilo_hows_life/]
 
-Discord: [@mwhahaha][www.discord.com]
+Discord: [@mwhahaha][discord]
+
+[discord]: www.discord.com
