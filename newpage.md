@@ -5,12 +5,12 @@ permalink: /linktree
 ---
 Hi! I'm currently looking for Fall 2025 co-ops!
 
-Email: lin.albe@northeastern.edu 
+Email: [lin.albe@northeastern.edu]
 
-Linkedin: www.linkedin.com/in/albertlin2048 
+Linkedin: [www.linkedin.com/in/albertlin2048]
 
-Github: https://github.com/aRandomHumanoid 
+Github: [https://github.com/aRandomHumanoid]
 
-Instagram: https://www.instagram.com/hilo_hows_life/ 
+Instagram: [https://www.instagram.com/hilo_hows_life/]
 
-Discord: @mwhahaha
+Discord: [@mwhahaha]
