@@ -18,4 +18,4 @@ Discord: [@mwhahaha][discord]
 [email]: lin.albe@northeastern.edu
 [linkedin]: www.linkedin.com/in/albertlin2048
 [instagram]: https://www.instagram.com/hilo_hows_life/
-[discord]: www.discord.com
+[discord]: https://www.discord.com
