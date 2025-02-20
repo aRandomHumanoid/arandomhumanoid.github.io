@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Website work in progress"
+title: "Website Work in Progress"
 date: 2025-2-13 01:01:01 -0000
 categories: testing
 ---
