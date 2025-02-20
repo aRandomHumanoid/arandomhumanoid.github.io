@@ -3,7 +3,7 @@ layout: page
 title: "Image Library"
 permalink: /imagelib
 ---
-A bunch of assorted immages of projects I've done!
+A bunch of assorted images of projects I've done!
 
 <hr>
 
