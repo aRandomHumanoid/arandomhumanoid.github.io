@@ -22,7 +22,7 @@ Milled 3d printed parts + soft jaws
 
 <hr>
 
-Engraving in silver  
+Engraving in silver (Not designed by me)
 ![silverengrave](https://cdn.discordapp.com/attachments/956553279301619794/1342044974161727539/76109707772__E63B93CA-1B83-4311-8B88-18A5D7242761.jpg?ex=67b83447&is=67b6e2c7&hm=afabd66ea2bb05228424a48ff43d75e9fca0757e82b0212a8bbbb8a4fa3ec75c&)
 
 <hr>
